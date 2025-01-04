@@ -32,10 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-LiterAlura/.gitattributes
-LiterAlura/mvnw
-LiterAlura/mvnw.cmd
-
 
 
 target/
