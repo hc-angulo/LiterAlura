@@ -32,9 +32,9 @@ build/
 ### VS Code ###
 .vscode/
 
-.gitattributes
-mvnw
-mvnw.cmd
+LiterAlura/.gitattributes
+LiterAlura/mvnw
+LiterAlura/mvnw.cmd
 
 
 
